@@ -1,0 +1,368 @@
+************* Item Book **************
+
+Total number of items: 52
+
+* ITEM 0 *
+Item: Extra Virgin Olive Oil
+Description: (3L x 4)/cs
+Unit: Case
+Type: Sauces & Oil
+Rate: $67.95
+
+* ITEM 1 *
+Item: Mint
+Description: 
+Unit: lb
+Type: Produce
+Rate: $3.95
+
+* ITEM 2 *
+Item: Fork-Knife Kit
+Description: 
+Unit: Case
+Type: Cleaning & To Go
+Rate: $15.82
+
+* ITEM 3 *
+Item: Soy Sauce
+Description: Toya
+Unit: Each
+Type: Sauces & Oil
+Rate: $4.45
+
+* ITEM 4 *
+Item: Milk
+Description: Regular
+Unit: Each
+Type: Dairy
+Rate: $2.83
+
+* ITEM 5 *
+Item: Clorox Bleach
+Description: 
+Unit: Each
+Type: Cleaning & To Go
+Rate: $3.33
+
+* ITEM 6 *
+Item: Oranges
+Description: 88ct 
+Unit: Case
+Type: Fruit & Nuts
+Rate: $30.77
+
+* ITEM 7 *
+Item: Baguette Bread
+Description: 
+Unit: Each
+Type: Dairy
+Rate: $0.84
+
+* ITEM 8 *
+Item: Spring Mix
+Description: 5lb
+Unit: Each
+Type: Produce
+Rate: $5
+
+* ITEM 9 *
+Item: Red Bell Pepper
+Description: 9ct/bag
+Unit: Bag
+Type: Produce
+Rate: $5.77
+
+* ITEM 10 *
+Item: Scallops Dry
+Description: 13-18, 2ct/cs
+Unit: Case
+Type: Seafood
+Rate: $117.71
+
+* ITEM 11 *
+Item: Smoked Salmon
+Description: 
+Unit: lb
+Type: Seafood
+Rate: $2.39
+
+* ITEM 12 *
+Item: Shredded Mozzarella Cheese
+Description: 4ct/cs
+Unit: Case
+Type: Dairy
+Rate: $43
+
+* ITEM 13 *
+Item: Salad Canola Oil
+Description: 35lb/each
+Unit: Each
+Type: Sauces & Oil
+Rate: $19.7
+
+* ITEM 14 *
+Item: San Pellegrino Orange can
+Description: 24ct/case
+Unit: Case
+Type: Juice
+Rate: $15.66
+
+* ITEM 15 *
+Item: Russet Potato
+Description: 40ct/bag
+Unit: Bag
+Type: Produce
+Rate: $22.77
+
+* ITEM 16 *
+Item: Celery
+Description: 3ct/bag
+Unit: Bag
+Type: Produce
+Rate: $2.95
+
+* ITEM 17 *
+Item: Squid Ink
+Description: 
+Unit: Each
+Type: Sauces & Oil
+Rate: $14.95
+
+* ITEM 18 *
+Item: Sprout Bean
+Description: 10lb/bag
+Unit: Bag
+Type: Produce
+Rate: $7.77
+
+* ITEM 19 *
+Item: Basil
+Description: 
+Unit: lb
+Type: Produce
+Rate: $4.95
+
+* ITEM 20 *
+Item: Ovaline Mozzarella Cheeze
+Description: 
+Unit: Case
+Type: Dairy
+Rate: $21
+
+* ITEM 21 *
+Item: Beef Striploin SAB
+Description: 
+Unit: lb
+Type: Seafood
+Rate: $7.29
+
+* ITEM 22 *
+Item: Lobster MAINE live
+Description: 
+Unit: lb
+Type: Seafood
+Rate: $10.25
+
+* ITEM 23 *
+Item: Tuna Saku
+Description: 
+Unit: lb
+Type: Seafood
+Rate: $8.45
+
+* ITEM 24 *
+Item: Dinner Napkins 1Ply 1/8F
+Description: 
+Unit: Each
+Type: Cleaning & To Go
+Rate: $13.8
+
+* ITEM 25 *
+Item: Red Bell Pepper CASE
+Description: 
+Unit: Case
+Type: Produce
+Rate: $20.77
+
+* ITEM 26 *
+Item: Romaine Lettuce CASE
+Description: 
+Unit: Case
+Type: Produce
+Rate: $10.77
+
+* ITEM 27 *
+Item: Green Bell Pepper CASE
+Description: 
+Unit: Case
+Type: Produce
+Rate: $14.77
+
+* ITEM 28 *
+Item: Tomato San Marzano Cans CASE
+Description: 
+Unit: Case
+Type: Sauces & Oil
+Rate: $15.86
+
+* ITEM 29 *
+Item: Coke CASE
+Description: 
+Unit: Case
+Type: Juice
+Rate: $10.68
+
+* ITEM 30 *
+Item: Cleaner Fabuloso CASE
+Description: 3ct/case
+Unit: Case
+Type: Cleaning & To Go
+Rate: $23.21
+
+* ITEM 31 *
+Item: Chicken Broth CASE
+Description: 12ct/case
+Unit: Case
+Type: Sauces & Oil
+Rate: $25.64
+
+* ITEM 32 *
+Item: Oranges Valencia CASE
+Description: 88ct/case
+Unit: Case
+Type: Fruit & Nuts
+Rate: $30.77
+
+* ITEM 33 *
+Item: Clam Juice CASE
+Description: 12ct/case
+Unit: Case
+Type: Sauces & Oil
+Rate: $31.24
+
+* ITEM 34 *
+Item: Perrier CASE
+Description: 
+Unit: Case
+Type: Juice
+Rate: $15.2
+
+* ITEM 35 *
+Item: Carrots CASE
+Description: 25lb/case
+Unit: Case
+Type: Produce
+Rate: $7.25
+
+* ITEM 36 *
+Item: Russet Potato CASE
+Description: 50lb
+Unit: Case
+Type: Produce
+Rate: $7.77
+
+* ITEM 37 *
+Item: Yellow Onion BAG
+Description: 
+Unit: Bag
+Type: Produce
+Rate: $11.77
+
+* ITEM 38 *
+Item: Red Onion BAG
+Description: 
+Unit: Bag
+Type: Produce
+Rate: $10.97
+
+* ITEM 39 *
+Item: Ground Beef
+Description: 
+Unit: lb
+Type: Seafood
+Rate: $2.13
+
+* ITEM 40 *
+Item: Parsley BAG
+Description: 6bc/bag
+Unit: Bag
+Type: Produce
+Rate: $3
+
+* ITEM 41 *
+Item: Beef Ribeye SAB
+Description: 
+Unit: lb
+Type: Seafood
+Rate: $8.89
+
+* ITEM 42 *
+Item: De Cecco Spaghettini # 11
+Description: 
+Unit: Each
+Type: Sauces & Oil
+Rate: $25.21
+
+* ITEM 43 *
+Item: Cucumber House BAG
+Description: 3ct/bag
+Unit: Bag
+Type: Produce
+Rate: $5.77
+
+* ITEM 44 *
+Item: Multifold Paper Towels CASE
+Description: White
+Unit: Case
+Type: Cleaning & To Go
+Rate: $19.19
+
+* ITEM 45 *
+Item: Shredded Mozzarella CASE
+Description: 5lb/case
+Unit: Case
+Type: Dairy
+Rate: $42
+
+* ITEM 46 *
+Item: Ketchup Hunts Case
+Description: 6ct/case
+Unit: Case
+Type: Sauces & Oil
+Rate: $18.9
+
+* ITEM 47 *
+Item: Almond Milk Unsweetened
+Description: 32z
+Unit: Each
+Type: Dairy
+Rate: $2
+
+* ITEM 48 *
+Item: Silk Soy Milk 
+Description: 6/32z
+Unit: Each
+Type: Produce
+Rate: $1.8
+
+* ITEM 49 *
+Item: Raspberry CASE
+Description: (6 x 12oz)/case
+Unit: Case
+Type: Fruit & Nuts
+Rate: $34.62
+
+* ITEM 50 *
+Item: Gloves 17'' Insulated
+Description: 
+Unit: Bag
+Type: Cleaning & To Go
+Rate: $38.19
+
+* ITEM 51 *
+Item: Half & Half Cream 
+Description: 64z
+Unit: Each
+Type: Dairy
+Rate: $3.25
+

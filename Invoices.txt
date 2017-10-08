@@ -1,0 +1,81 @@
+************* Invoices **************
+Total # of invoices: 2
+
+** Restaurant Depot(08/12/17) **
+
+
+Total # of items: 33
+
+Invoice items: 
+
+0. Celery -     Rate: $2.950000 / Bag     QTY: 1.000000     Amount: $2.950000
+1. Cucumber House BAG -     Rate: $5.770000 / Bag     QTY: 2.000000     Amount: $11.540000
+2. Squid Ink -     Rate: $14.950000 / Each     QTY: 1.000000     Amount: $14.950000
+3. Squid Ink -     Rate: $14.950000 / Each     QTY: 1.000000     Amount: $14.950000
+4. Sprout Bean -     Rate: $7.770000 / Bag     QTY: 1.000000     Amount: $7.770000
+5. Basil -     Rate: $4.950000 / lb     QTY: 3.000000     Amount: $14.850000
+6. Ovaline Mozzarella Cheese -     Rate: $21.000000 / Case     QTY: 1.000000     Amount: $21.000000
+7. Beef Striploin SAB -     Rate: $7.290000 / lb     QTY: 12.250000     Amount: $89.302500
+8. Lobster MAINE live -     Rate: $10.250000 / lb     QTY: 11.550000     Amount: $118.387500
+9. Tuna Saku -     Rate: $8.450000 / lb     QTY: 10.000000     Amount: $84.500000
+10.        Dinner Napkins 1Ply 1/8F -     Rate: $13.800000 / Each     QTY: 1.000000     Amount: $13.800000
+11.        Red Bell Pepper CASE -     Rate: $20.770000 / Case     QTY: 1.000000     Amount: $20.770000
+12.        Spring Mix -     Rate: $5.000000 / Each     QTY: 2.000000     Amount: $10.000000
+13.        Romaine Lettuce CASE -     Rate: $10.770000 / Case     QTY: 1.000000     Amount: $10.770000
+14.        Green Bell Pepper CASE -     Rate: $14.770000 / Case     QTY: 1.000000     Amount: $14.770000
+15.        Milk -     Rate: $2.830000 / Each     QTY: 8.000000     Amount: $22.640000
+16.        Tomato San Marzano Cans CASE -     Rate: $15.860000 / Case     QTY: 1.000000     Amount: $15.860000
+17.        Coke CASE -     Rate: $10.680000 / Case     QTY: 2.000000     Amount: $21.360000
+18.        Cleaner Fabuloso CASE -     Rate: $23.210000 / Case     QTY: 1.000000     Amount: $23.210000
+19.        Tomato San Marzano Cans CASE -     Rate: $15.860000 / Case     QTY: 1.000000     Amount: $15.860000
+20.        Chicken Broth CASE -     Rate: $25.640000 / Case     QTY: 1.000000     Amount: $25.640000
+21.        Oranges Valencia CASE -     Rate: $30.770000 / Case     QTY: 1.000000     Amount: $30.770000
+22.        Clam Juice CASE -     Rate: $31.240000 / Case     QTY: 1.000000     Amount: $31.240000
+23.        Dinner Napkins 1Ply 1/8F -     Rate: $13.800000 / Each     QTY: 1.000000     Amount: $13.800000
+24.        Perrier CASE -     Rate: $15.200000 / Case     QTY: 1.000000     Amount: $15.200000
+25.        Carrots CASE -     Rate: $7.250000 / Case     QTY: 1.000000     Amount: $7.250000
+26.        Russet Potato CASE -     Rate: $7.770000 / Case     QTY: 1.000000     Amount: $7.770000
+27.        Yellow Onion BAG -     Rate: $11.770000 / Bag     QTY: 1.000000     Amount: $11.770000
+28.        Red Onion BAG -     Rate: $10.970000 / Bag     QTY: 1.000000     Amount: $10.970000
+29.        Ground Beef -     Rate: $2.130000 / lb     QTY: 10.280000     Amount: $21.896400
+30.        Beef Ribeye SAB -     Rate: $8.890000 / lb     QTY: 13.890000     Amount: $123.482100
+31.        De Cecco Spaghettini # 11 -     Rate: $25.210000 / Each     QTY: 2.000000     Amount: $50.420000
+32.        Roma Tomatoes XL -     Rate: $20.770000 / Case     QTY: 1.000000     Amount: $20.770000
+
+
+
+
+
+
+                      TOTAL: $ 920.218
+**********************************************
+** Restaurant Depot(08/13/17) **
+
+
+Total # of items: 9
+
+Invoice items: 
+
+0. Multifold Paper Towels CASE -     Rate: $19.190000 / Case     QTY: 2.000000     Amount: $38.380000
+1. Shredded Mozzarella CASE -     Rate: $42.000000 / Case     QTY: 1.000000     Amount: $42.000000
+2. Ketchup Hunts Case -     Rate: $18.900000 / Case     QTY: 1.000000     Amount: $18.900000
+3. Milk -     Rate: $2.830000 / Each     QTY: 6.000000     Amount: $16.980000
+4. Almond Milk Unsweetened -     Rate: $2.000000 / Each     QTY: 1.000000     Amount: $2.000000
+5. Silk Soy Milk  -     Rate: $1.800000 / Each     QTY: 1.000000     Amount: $1.800000
+6. Raspberry CASE -     Rate: $34.620000 / Case     QTY: 1.000000     Amount: $34.620000
+7. Gloves 17'' Insulated -     Rate: $38.190000 / Bag     QTY: 1.000000     Amount: $38.190000
+8. Half & Half Cream  -     Rate: $3.250000 / Each     QTY: 1.000000     Amount: $3.250000
+
+
+
+
+
+
+                      TOTAL: $ 196.12
+**********************************************
+
+
+
+                                ABSOLUTE TOTAL: $ 1116.34
+
+
